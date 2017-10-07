@@ -16,7 +16,7 @@
 title: Bishur Paglami
 email: prasenjit@prasenjit.net
 description: > # this means to ignore newlines until "baseurl:"
-  This is a blog to publish all paglamis of bishu
+  This is a blog to publish all paglamis of my dear bishu da
 baseurl: "/bishu" # the subpath of your site, e.g. /blog
 url: "http://www.prasenjit.net" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
